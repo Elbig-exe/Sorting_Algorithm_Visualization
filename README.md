@@ -1,9 +1,9 @@
 # Sorting_Algorithm_Visualization:
-Simple sorting algorithms visualisation that genirate ramdom arrays after that it sorts them by showing every step with a cool animation and satisfaying sound.
-# What i have learned:
-  *Python programing language
+A Simple sorting algorithms visualization that generates random arrays and sorts them by showing every step with cool animation and satisfying sound.
+# What I have learned:
+  * Python programing language
   * Pygame library
   * Big O notation 
   * Visualization 
-  * Deep Understading of sorting algorithems
+  * Deep Understanding of sorting algorithms
   * UI/UX design.
